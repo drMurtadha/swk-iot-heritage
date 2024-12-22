@@ -7,7 +7,7 @@ Heritage buildings represent a critical link to cultural history but are under c
 
 #### Effects of Visitors on Heritage Sites
 
-1. **Physical Wear and Tear:** High foot traffic can lead to surface abrasion, structural vibrations, and damage to delicate artifacts. This is especially problematic in sites with fragile historical elements, such as ancient mosaics or wooden flooring.
+1. **Physical Wear and Tear:** High foot traffic can lead to surface abrasion, structural vibrations, and damage to delicate artifacts. This is especially problematic in sites with fragile historical elements, such as ancient mosaics or wooden flooring.[references](LR-wear-tear.md)
 2. **Microclimatic Changes:** Human presence can increase localized temperature, humidity, and carbon dioxide levels, which may accelerate the deterioration of sensitive materials. For instance, prolonged human activity in confined spaces can create condensation, leading to mold growth or salt crystallization on surfaces. Historical microclimatic data, such as ERA5 reanalysis datasets, can be utilized to understand long-term environmental trends and inform preventive measures.
 3. **Pollution:** Visitors may inadvertently introduce pollutants, including particulates from clothing and airborne contaminants such as skin flakes, deodorants, and perfumes. These pollutants can settle on artifacts, leading to gradual damage.
 4. **Overcrowding:** Excessive numbers of visitors can strain structural integrity, reduce airflow, and exacerbate environmental stressors. Overcrowding can also negatively impact the quality of the visitor experience by creating congestion and reducing accessibility.
