@@ -164,29 +164,7 @@ Addressing these gaps will help expand the application of IoT in heritage manage
   3. Integrate predictive models into IoT platforms for automated alerts and preventive recommendations.
   4. Test predictive capabilities in simulation environments and validate them in operational heritage sites.
 
-**Objective 1: Develop an integrated IoT platform combining diverse data sources.**
 
-- **Methodology:**
-  1. Deploy IoT sensors to monitor environmental (temperature, humidity) and structural data (vibration, crack formation).
-  2. Collect historical microclimatic data from ERA5 to understand seasonal and long-term environmental trends.
-  3. Develop a data integration framework using cloud-based platforms to combine real-time IoT data with historical datasets.
-  4. Implement a unified dashboard for data visualization and analysis.
-
-**Objective 2: Design scalable IoT systems for smaller heritage sites.**
-
-- **Methodology:**
-  1. Use low-cost sensors (e.g., open-source hardware like Arduino or Raspberry Pi) for environmental and structural monitoring.
-  2. Create modular IoT kits tailored for smaller-scale deployment with minimal maintenance requirements.
-  3. Develop training materials and guidelines for site managers to implement and maintain the IoT systems.
-  4. Pilot scalable solutions at a smaller heritage site in Malaysia (e.g., Melaka or George Town) for validation.
-
-**Objective 3: ********Create AI-driven predictive models for conservation strategies********.**
-
-- **Methodology:**
-  1. Use combined real-time sensor data and ERA5 historical data as inputs for machine learning models.
-  2. Train AI models to predict environmental fluctuations, visitor impacts, and potential risks to heritage structures.
-  3. Integrate predictive models into IoT platforms for automated alerts and preventive recommendations.
-  4. Test predictive capabilities in simulation environments and validate them in operational heritage sites.
 
 #### Research Gaps and How to Address Them
 
