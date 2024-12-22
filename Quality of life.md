@@ -2,6 +2,7 @@ Quality of life in the context of Internet of Things (IoT) for ecotourism and he
 
 Key Aspects:
 	1.	Environmental Well-being:
+ 
 	•	Monitoring and managing natural resources (e.g., air quality, water quality, and biodiversity) to ensure ecological balance.
 	•	Preventing over-tourism and minimizing the environmental footprint of human activities.
 	2.	Cultural and Heritage Preservation:
