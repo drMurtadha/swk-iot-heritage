@@ -193,7 +193,7 @@ Muzium Islam Sarawak in Kuching, Sarawak, houses historical Islamic artifacts an
 - Real-time monitoring dashboard displaying temperature, humidity, and structural stress data.
 - Alerts to museum staff when environmental conditions or structural integrity fall outside safe thresholds.
 - Predictive insights on artifact preservation based on historical and real-time environmental data.
-
+![Research framework](objective-1-method.png)
 ---
 
 **Objective 2: Develop an integrated IoT platform combining diverse data sources.**
