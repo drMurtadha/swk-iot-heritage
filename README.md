@@ -140,6 +140,30 @@ Addressing these gaps will help expand the application of IoT in heritage manage
 
 #### Methodology to Realize Objectives
 
+**Objective 1: Design scalable IoT systems for smaller heritage sites.**
+
+- **Methodology:**
+  1. Use low-cost sensors (e.g., open-source hardware like Arduino or Raspberry Pi) for environmental and structural monitoring.
+  2. Create modular IoT kits tailored for smaller-scale deployment with minimal maintenance requirements.
+  3. Develop training materials and guidelines for site managers to implement and maintain the IoT systems.
+  4. Pilot scalable solutions at a smaller heritage site in Malaysia (e.g., Melaka or George Town) for validation.
+
+**Objective 2: Develop an integrated IoT platform combining diverse data sources.**
+
+- **Methodology:**
+  1. Deploy IoT sensors based on the scalable solutions from Objective 1 to monitor environmental (temperature, humidity) and structural data (vibration, crack formation).
+  2. Collect historical microclimatic data from ERA5 to understand seasonal and long-term environmental trends.
+  3. Develop a data integration framework using cloud-based platforms to combine real-time IoT data with historical datasets.
+  4. Implement a unified dashboard for data visualization and analysis.
+
+**Objective 3: Create AI-driven predictive models for conservation strategies.**
+
+- **Methodology:**
+  1. Use combined real-time sensor data and ERA5 historical data as inputs for machine learning models.
+  2. Train AI models to predict environmental fluctuations, visitor impacts, and potential risks to heritage structures.
+  3. Integrate predictive models into IoT platforms for automated alerts and preventive recommendations.
+  4. Test predictive capabilities in simulation environments and validate them in operational heritage sites.
+
 **Objective 1: Develop an integrated IoT platform combining diverse data sources.**
 
 - **Methodology:**
@@ -177,32 +201,11 @@ Addressing these gaps will help expand the application of IoT in heritage manage
 | Impact Quantification                      | How can the effectiveness of IoT interventions be quantitatively measured in heritage conservation?                                            | Establish standardized metrics and methodologies to assess the impact of IoT on preservation and visitor experience.          |        |   |
 | Standards for IoT in Heritage Conservation | What guidelines should be established for deploying IoT systems in heritage conservation contexts?                                             | Develop standardized protocols and guidelines for IoT implementation across diverse heritage sites.                           |        |   |
 
-
-
-### Framework to Contextualize Methodology for Objectives
-
-1. **Common Steps Across Objectives**:
-   - **Deploy IoT Sensors**: All objectives rely on deploying IoT sensors for collecting real-time environmental and structural data.
-   - **Data Collection and Integration**: Combining ERA5 historical data with IoT sensor data is central for each objective.
-   - **Analysis Tools**: Use cloud-based platforms to process and analyze both real-time and historical data.
-
-2. **Sequential or Parallel Execution**:
-   - **Parallel Approach**: Steps such as sensor deployment, ERA5 data integration, and cloud platform setup can be performed concurrently to save time.
-   - **Sequential Tasks**: AI-driven predictive models (Objective 3) require preliminary data from sensor deployment and ERA5 integration (Objective 1).
-
-3. **Diagram Structure**:
-   - **Start**: 
-     - Deploy IoT sensors (Step 1, shared).
-     - Collect real-time data (Step 2, shared).
-   - **Branching**:
-     - For Objective 1: Develop cloud integration and a unified dashboard for analysis.
-     - For Objective 2: Design scalable IoT systems with modular components.
-     - For Objective 3: Integrate AI models and run predictive analytics using combined datasets.
-   - **Convergence**:
-     - Unified impact on heritage management systems.
-
-![Description of the image](output-4.png)
 #### Conclusion
 
 IoT offers innovative solutions to monitor and mitigate the impacts of visitors on heritage sites, balancing preservation with accessibility. By leveraging real-time monitoring, predictive analytics, and dynamic systems, IoT technologies can ensure the long-term sustainability of cultural heritage. Future research should focus on integrating IoT with AI for predictive maintenance, enhancing system scalability, and addressing privacy concerns to unlock the full potential of IoT in cultural heritage conservation. Additionally, collaborative efforts between technologists, conservators, and policymakers will be crucial in overcoming implementation challenges and advancing heritage preservation methodologies.
+
+
+
+![Description of the image](output-4.png)
 
