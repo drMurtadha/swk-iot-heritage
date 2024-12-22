@@ -330,6 +330,8 @@ Muzium Islam Sarawak seeks to utilize AI to predict risks such as environmental 
 | Impact Quantification                      | How can the effectiveness of IoT interventions be quantitatively measured in heritage conservation?                                            | Establish standardized metrics and methodologies to assess the impact of IoT on preservation and visitor experience.          |       
 | Standards for IoT in Heritage Conservation | What guidelines should be established for deploying IoT systems in heritage conservation contexts?                                             | Develop standardized protocols and guidelines for IoT implementation across diverse heritage sites.                           |        
 
+![Research framework](output-6.png)
+
 #### Conclusion
 
 IoT offers innovative solutions to monitor and mitigate the impacts of visitors on heritage sites, balancing preservation with accessibility. By leveraging real-time monitoring, predictive analytics, and dynamic systems, IoT technologies can ensure the long-term sustainability of cultural heritage. Future research should focus on integrating IoT with AI for predictive maintenance, enhancing system scalability, and addressing privacy concerns to unlock the full potential of IoT in cultural heritage conservation. Additionally, collaborative efforts between technologists, conservators, and policymakers will be crucial in overcoming implementation challenges and advancing heritage preservation methodologies.
