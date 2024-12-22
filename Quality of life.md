@@ -1,7 +1,8 @@
 Quality of life in the context of Internet of Things (IoT) for ecotourism and heritage properties monitoring in Petra Jaya, Kuching, can be defined as the enhancement of the well-being, satisfaction, and overall experience of residents, tourists, and stakeholders through the integration of IoT technologies. This involves improving environmental sustainability, cultural heritage preservation, and economic opportunities while ensuring sustainable development in the region.
 
 Key Aspects:
-	1.	Environmental Well-being:
+	
+ 	1.	Environmental Well-being:
  
 	•	Monitoring and managing natural resources (e.g., air quality, water quality, and biodiversity) to ensure ecological balance.
 	•	Preventing over-tourism and minimizing the environmental footprint of human activities.
