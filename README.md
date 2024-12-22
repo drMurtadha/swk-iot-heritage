@@ -142,7 +142,7 @@ Addressing these gaps will help expand the application of IoT in heritage manage
 
 #### Research Gaps and How to Address Them
 
-| **Research Gaps Identified**               | **Research Questions**                                                                                                                         | **Proposed Objectives**                                                                                                       | Method |   |
+| **Research Gaps Identified**               | **Research Questions**                                                                                                                         | **Proposed Objectives**                                                                                                       | 
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | Integration of Comprehensive Data Sources  | How can diverse data sources (environmental, structural, and behavioral) be integrated into a unified IoT framework for heritage conservation? | Develop an integrated IoT platform that combines and analyzes heterogeneous data sources to support holistic decision-making. |        
 | Scalable and Cost-Effective Solutions      | What cost-effective IoT solutions can be developed for smaller heritage sites with limited budgets?                                            | Design scalable IoT systems using affordable, modular components for low-resource heritage sites.                             |        
