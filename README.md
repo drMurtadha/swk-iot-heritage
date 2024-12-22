@@ -242,6 +242,7 @@ Muzium Islam Sarawak requires a unified platform to integrate real-time IoT sens
   3. Develop a data integration framework using cloud-based platforms to combine real-time IoT data with historical datasets.
   4. Implement a unified dashboard for data visualization and analysis.
 
+![Research framework](output-7.png)
 **Objective 3: Create AI-driven predictive models for conservation strategies.**
 
 **Detailed Example for Objective 3: Muzium Islam Sarawak**
