@@ -280,7 +280,7 @@ Muzium Islam Sarawak seeks to utilize AI to predict risks such as environmental 
 - Predictive models capable of identifying and forecasting environmental and structural risks.
 - Integration of AI insights into the IoT platform for real-time decision-making.
 - Enhanced preventive measures, reducing long-term degradation risks to artifacts and building structure.
-
+![Research framework](objective-3-method.png)
 ---
 #### Conclusion
 
